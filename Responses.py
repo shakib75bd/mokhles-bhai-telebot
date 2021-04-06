@@ -34,9 +34,6 @@ def sample_responses(input_text):
 	if user_message in ('shafiq'):
 		return "Creative Cloud"
 
-	if user_message in ('alin'):
-		return "Amake j banaiche taar kacher lok. Chuuupppp"
-
 	if user_message in ('valo lagena','vallagena'):
 		return "Meyeder moto kotha"
 
