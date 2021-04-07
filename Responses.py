@@ -72,8 +72,8 @@ def sample_responses(input_text):
 
 		return str(date_time)
 
-	if user_message in ("x","ekta x de","porn",'sex video','valo x de','sex','chudachudi','chuda'):
-		return "https://www.xnxx.com/video-x6ztb7f/bangbros_-_busty_arab_queen_mia_khalifa_fucking_on_camera_for_the_first_time"
+	if user_message in ("x","ekta x de","porn",'sex video','valo x de','sex'):
+		return "Chi Chi, manush hoe"
 
 
 	if user_message in ("prem korbo","meye nai","hahakar",'prem','valobasha','meye','suicide korbo','depression kemne katash?'):
